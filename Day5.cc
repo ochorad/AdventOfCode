@@ -12,7 +12,7 @@
 #include <string>
 
 // Part 1: 01:36:29
-// Part 2: 
+// Part 2: 01:00:59
 
 void ParseRulePushBack(std::vector<std::pair<int,int>>& rules, const std::string& line) {
     std::regex pair_parser(R"(\d{2})");
